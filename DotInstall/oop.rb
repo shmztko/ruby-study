@@ -5,3 +5,11 @@
 
 x = "hello".length
 p x
+
+# クラス : 設計図
+# インスタンス : 実体化されたデータ
+
+# String 
+# "hello"
+
+
